@@ -8,6 +8,7 @@ A simple and pure skin of Hitokoto for Rainmeter
 
 ## 运行截图
 [![pAA8t4x.png](https://s21.ax1x.com/2024/08/29/pAA8t4x.png)](https://imgse.com/i/pAA8t4x)
+[![pAusRkd.png](https://s21.ax1x.com/2024/09/15/pAusRkd.png)](https://imgse.com/i/pAusRkd)
 
 ## 相关网址
 ### Hitokoto官网    https://hitokoto.cn/
